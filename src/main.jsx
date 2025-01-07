@@ -7,7 +7,7 @@ import Home from './pages/Home.jsx';
 import Match from './pages/Match.jsx';
 import Driver from './pages/Driver.jsx';
 import Constructor from './pages/Constructor.jsx';
-import Store from './pages/Store.jsx';
+import Contact from './pages/Contact.jsx';
 import Footer from './components/Footer.jsx';
 
 createRoot(document.getElementById('root')).render(
@@ -19,7 +19,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/match" element={<Match />} />
         <Route path="/driver" element={<Driver />} />
         <Route path="/constructor" element={<Constructor />} />
-        <Route path="/store" element={<Store />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer />
     </Router>

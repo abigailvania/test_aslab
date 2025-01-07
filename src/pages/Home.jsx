@@ -93,15 +93,6 @@ function Home() {
                         </Link>
                     </div>
                 </div>
-
-                <div className="mt-8">
-                    <h2 className="text-2xl text-red-600 mb-4">Find Us Here!</h2>
-                    <iframe
-                        style={{ height: "400px", width: "100%", border: "0" }}
-                        src="https://www.google.com/maps/embed/v1/place?q=2+St.+James's+Market,+London,+SW1Y+4AH,+GB&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
-                        title="Google Map"
-                    ></iframe>
-                </div>
             </div>
         </div>
     );
