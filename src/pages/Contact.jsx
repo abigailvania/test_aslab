@@ -51,7 +51,6 @@ function Contact() {
                             title="Google Map"
                             src="https://www.google.com/maps/embed/v1/place?q=2+St.+James's+Market,+London,+SW1Y+4AH,+GB&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                             style={{ height: "400px", width: "100%", border: "0" }}
-                            allowFullScreen
                         ></iframe>
                     </div>
                 </div>
